@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+//启动项
 public class SpringbootJpaThymeleafDemo1Application {
 //注释------------------------
     public static void main(String[] args) {
